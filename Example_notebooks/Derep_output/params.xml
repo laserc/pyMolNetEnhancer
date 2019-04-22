@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parameters>
+<parameter name="accurate_p_value">on</parameter>
+<parameter name="adduct_K">on</parameter>
+<parameter name="adduct_Na">on</parameter>
+<parameter name="database">pnpdatabase</parameter>
+<parameter name="desc">NPSPanama2019_DrugMetabolismExample_Dereplicator</parameter>
+<parameter name="email">mernst@ucsd.edu</parameter>
+<parameter name="isotope">0</parameter>
+<parameter name="max_charge">2</parameter>
+<parameter name="max_mod">150</parameter>
+<parameter name="min_num_comp">5</parameter>
+<parameter name="min_shared_peaks">5</parameter>
+<parameter name="pm_thresh">0.02</parameter>
+<parameter name="product_ion_thresh">0.02</parameter>
+<parameter name="spec_on_server">f.mernst/NPSPanama2019_GNPSWorkshop/DrugMetabolismExample/METABOLOMICS-SNETS-d23ed2e6-download_clustered_spectra-main.mgf;</parameter>
+<parameter name="task">c62d3283752f4f98b1720d0a6d1ee65b</parameter>
+<parameter name="upload_file_mapping">spectra-00000.mgf|mernst/NPSPanama2019_GNPSWorkshop/DrugMetabolismExample/METABOLOMICS-SNETS-d23ed2e6-download_clustered_spectra-main.mgf</parameter>
+<parameter name="user">mernst</parameter>
+<parameter name="uuid">1E146908-B3B5-0001-5BD4-A7C5285085A0</parameter>
+<parameter name="workflow">DEREPLICATOR</parameter>
+</parameters>
